@@ -1,6 +1,6 @@
 cask "xedoc" do
-  version "1.95.0"
-  sha256 "bb92086df63cd043dd7be34e11f859526beb3ebdcce227c8307a9571c8dbef57"
+  version "1.96.0"
+  sha256 "b557465fca56f042e99f700db06ee3d22dc048a82fbf2ef17cdd5b689cbf908d"
 
   url "https://github.com/apohl79/xedoc/releases/download/v#{version}/xedoc-macos-#{version}.zip"
   name "Xedoc"
